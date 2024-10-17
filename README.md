@@ -1,6 +1,6 @@
 # Sticker Printer Application
 
-This project is a Sticker Printer application developed for INFORMO d.o.o. The application allows users to customize sticker dimensions, specify the number of stickers to print, and preview the final design before printing. Built using Visual Studio with WPF (Windows Presentation Foundation), C#, and Microsoft SQL Server for data management.
+This project is a Sticker Printer application developed for INFORMO d.o.o. The application allows users to customize sticker dimensions, specify the number of stickers to print, and preview the final design before printing. Built using Visual Studio with WPF (Windows Presentation Foundation) and C#
 
 ## Table of Contents
 
